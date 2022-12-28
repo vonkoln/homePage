@@ -27,11 +27,11 @@ function openInNewTab(url) {
  })
 
 list[1].addEventListener('click', function(event) {
-   window.open('https://www.instagram.com/tiagonoturno/')
+   window.open('https://www.instagram.com/brunochapeco/')
 })
 
 list[2].addEventListener('click', function(event) {
-    window.open('https://chat.whatsapp.com/CoSy4DQpMtCDWEgoGRHTR7')
+    window.open('https://wa.me/5531983191984?text=Poker+Delivery%3F')
 })
 
 list[3].addEventListener('click', function(event) {
@@ -39,5 +39,5 @@ list[3].addEventListener('click', function(event) {
 })
 
  list[4].addEventListener('click', function(event) {
-     alert('Nosso número 31989598126')
+     alert('Somente mensagem whats 31983191984')
 })
